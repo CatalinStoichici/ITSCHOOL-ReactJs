@@ -1,6 +1,6 @@
 import React from "react";
 import MealsListContainer from "../containers/MealsListContainer";
-import RandomMealsContainer from "../components/RandomMealsComponent";
+import RandomMealsContainer from "../containers/RandomMealsContainer";
 import SideContainer from "../containers/SideContainer";
 
 function HomepageView() {
