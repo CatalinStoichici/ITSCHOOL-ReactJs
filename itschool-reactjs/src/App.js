@@ -1,7 +1,6 @@
-
 import './App.css';
-import HomepageView from './HomepageView';
-import './MealDetailsComponent';
+import HomepageView from './views/HomepageView';
+
 
 
 function App() {

@@ -1,7 +1,7 @@
 import React from "react";
 
 function SideContainer() {
-    return 
+    return  <div style={{ backgroundColor: "green"}}>SideContainer</div>
 }
 
 export default SideContainer;
